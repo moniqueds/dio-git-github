@@ -1,7 +1,7 @@
 # Repositório do Desafio de Projeto sobre Git e Github da DIO.
 Desafio Digital Innovation One | Git e Github
 
-git init (inicia)
+git init (inicia) \n
 git status 
 git add . (adiciona)
 git commit -m "adicionar texto até 60 caracteres" 
